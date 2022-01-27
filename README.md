@@ -6,7 +6,9 @@ The Expense Tracker site allows users to calculate their income while keeping tr
 
 ## About
 
-This webpage 
+This webpage not only allows the user to add and deduct from their income, but it also features a history section where users can choose to erase any accidential transactions (as demonstrated in the gif above). 
+
+The expense tracker helps to provide an accurate and smooth experience to all users through the different features added to it.
 
 
 
