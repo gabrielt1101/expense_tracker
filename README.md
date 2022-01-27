@@ -1,13 +1,13 @@
-# Movie Booking
+# Expense Tracker
 
-The movie booking site allows users to purchase tickets and seats from the available movies.
+The Expense Tracker site allows users to calculate their income while keeping track of the user's earnings/spendings
+
+<img src="./ezgif.com-gif-maker (2).gif" alt="ezgif.com-gif-maker (2)" width="500" height="600">
 
 ## About
 
-The movies availible can always be updated with new releases, meaning that this site can receive updates while continuing to provide a quick and easy user experience. The prices for tickets are multiplied by the amounts of seats selected by the user to provide an accurate subtotal for the customer. 
+This webpage 
 
-This movie booking site also provides users with a seat selection area that displays which seats are full and available, as well as the position at where the seats are relative to the screen.    
 
-<img src="./ezgif.com-gif-maker.gif" alt="ezgif.com-gif-maker" width="500" height="600">
 
 
